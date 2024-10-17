@@ -13,4 +13,7 @@ def add_ingestion(df):
 
 # COMMAND ----------
 
+def do_nothing():
+    pass
+
 
